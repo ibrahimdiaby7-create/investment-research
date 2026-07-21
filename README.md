@@ -3,12 +3,9 @@
 A collection of financial models and investment research on publicly listed companies.
 
 # Companies Covered
-
-Company             |  Financial Model   |  Investment Memo 
----------------------------------------------------------------
-Microsoft           |       Done         |
-Nike                |       Done         | 
-Crocs               |       Done         |
+- Crocs (Financial Model)
+- Nike (Financial Model)
+- Microsoft (Financial Model)
 
 
 # Skills Demonstrated 
