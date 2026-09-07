@@ -1,4 +1,3 @@
-# Investment Research Portolio 
+# Investment Research and Financing Modelling Portolio 
 
-A collection of financial models and short investment memorandums on publicly listed companies. I have also added a file where I summarise the weekly market news.
-
+Independent company analysis and financial modelling portfolio built from public filings. Projects include historical three-statement modelling, DCF valuation, scenario analysis, investment memoranda and market commentary across consumer, technology, media, mining and automotive companies. 
