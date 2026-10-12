@@ -1,6 +1,6 @@
 # Investment Research and Financing Modelling Portfolio 
 
-Independent company analysis and financial modelling portfolio built from public filings. Projects include historical three-statement modelling, DCF valuation, scenario analysis, investment memoranda and market commentary across consumer, technology, media, mining, automotive companies, and infrastructure.
+Independent company analysis and financial modelling portfolio built from public filings. Projects include historical three-statement modelling, DCF, M&A, LBO, scenario analysis, investment memoranda and market commentary across consumer, technology, media, mining, automotive companies, and infrastructure.
 
 # Wrapped Up
 Live app: https://ibra-brief-1.onrender.com/
